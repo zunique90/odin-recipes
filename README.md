@@ -1,0 +1,1 @@
+This repo is to practice HTML Basics as learnt in The Odin Project
